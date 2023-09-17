@@ -1,0 +1,7 @@
+
+[openai]
+api_key = 
+
+model = text-davinci-003
+max_tokens = 150
+temperature = 0.9
